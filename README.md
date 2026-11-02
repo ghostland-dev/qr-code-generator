@@ -57,3 +57,10 @@ Follow these steps to get a copy of the project up and running on your local mac
 ### Changing Button Colors
 
 To change the button colors, update the classes in the HTML file. For example, to change to a different color:
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
